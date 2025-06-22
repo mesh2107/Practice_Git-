@@ -50,3 +50,5 @@ To see global config:
 To see local config (in current repo):
   git config --list
 
+
+#CLONING AND STATUS OF FOLDER
